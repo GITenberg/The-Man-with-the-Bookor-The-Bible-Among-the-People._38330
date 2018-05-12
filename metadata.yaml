@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '39400'
     url: http://www.gutenberg.org/2009/agents/39400
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38330#The-Man-with-the-Bookor-The-Bible-Among-the-People.
 gutenberg_issued: '2011-12-17'
 gutenberg_type: Text
 identifiers:
